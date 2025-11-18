@@ -1,0 +1,2 @@
+﻿ M mobile
+?? chat-django/.venv/
