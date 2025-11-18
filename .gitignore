@@ -42,3 +42,10 @@ pubspec.lock
 
 # Android
 /android/.gradle/
+
+# Flutter generated plugin registrants and ephemeral files
+mobile/**/flutter/generated_plugins.cmake
+mobile/**/flutter/generated_plugin_registrant.*
+mobile/**/GeneratedPluginRegistrant.*
+mobile/**/flutter/.plugin_symlinks/
+mobile/**/flutter/ephemeral/
