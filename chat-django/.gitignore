@@ -10,6 +10,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Also ignore dot-venv
+.venv/
+
 # Django
 *.log
 local_settings.py
